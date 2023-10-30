@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { AnimatePresence, motion, exit } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import Header from "../Text/Header";
 import { allIngredients } from "$/data/LayoutWorkData";
 
