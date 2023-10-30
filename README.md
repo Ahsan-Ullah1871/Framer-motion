@@ -77,3 +77,7 @@ understand where different components, styles, or other assets are located.
 - /styles
   - styles.css
 ```
+
+## Works samples:
+
+![Alt text](image.png) ![Alt text](image-1.png)

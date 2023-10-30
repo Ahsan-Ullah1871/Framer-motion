@@ -21,7 +21,7 @@ const AnimationController = ({
 				max={max}
 				min={min}
 				defaultValue={[0, max]}
-				onChange={(vl: number) => onChange(vl)}
+				onChange={(vl) => onChange(vl as number)}
 			/>
 		</div>
 	);
