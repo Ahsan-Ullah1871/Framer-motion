@@ -72,7 +72,7 @@ const SharedLayout = () => {
 						" bg-white w-full h-full min-h-[200px]   flex items-center justify-center ",
 					].join(" ")}
 				>
-					<h1 className=" text-7xl ">
+					<h1 className=" text-9xl ">
 						{selectedTab.icon}
 					</h1>
 				</motion.div>
