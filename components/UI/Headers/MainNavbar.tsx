@@ -14,6 +14,10 @@ const MainNavbar = () => {
 			title: "Layouts",
 			href: "/layouts",
 		},
+		{
+			title: "Gestures",
+			href: "/gestures",
+		},
 	];
 
 	const pathName = usePathname();
