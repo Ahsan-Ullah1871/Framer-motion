@@ -18,6 +18,10 @@ const MainNavbar = () => {
 			title: "Gestures",
 			href: "/gestures",
 		},
+		{
+			title: "Scroll",
+			href: "/scroll",
+		},
 	];
 
 	const pathName = usePathname();
