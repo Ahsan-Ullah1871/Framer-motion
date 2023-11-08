@@ -28,7 +28,7 @@ const MainNavbar = () => {
 	console.log(pathName);
 
 	return (
-		<div className="  bg-[#F2F0E6]  max-w-[1170px] mx-auto sticky top-4   p-6 rounded-md shadow flex items-center justify-start gap-4  ">
+		<div className="  bg-[#F2F0E6]  max-w-[1170px] mx-auto sticky top-4   p-6 rounded-md shadow flex items-center justify-start gap-4 z-40  ">
 			{menus.map((menu) => {
 				return (
 					<Link

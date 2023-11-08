@@ -5,9 +5,6 @@ const ScrollLinked = () => {
 		useScroll();
 	const scaleX = useSpring(scrollYProgress);
 
-	console.log("====================================");
-	console.log({ scrollYProgress, scrollXProgress, scrollX, scrollY });
-	console.log("====================================");
 	return (
 		<>
 			<motion.div
