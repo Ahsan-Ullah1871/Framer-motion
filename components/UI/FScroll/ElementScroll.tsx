@@ -5,10 +5,6 @@ const ElementScroll = () => {
 	const carouselRef = useRef(null);
 	const { scrollXProgress } = useScroll({ container: carouselRef });
 
-	console.log("====================================");
-	console.log(scrollXProgress);
-	console.log("====================================");
-
 	return (
 		<div className=" relative">
 			<motion.div
