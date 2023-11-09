@@ -1,6 +1,6 @@
-# Farmer Motion with Next.js
+# Framer Motion with Next.js
 
-A project for learning and implementing Farmer Motion with Next.js.
+A project for learning and implementing Framer  Motion with Next.js.
 
 ## Table of Contents
 
@@ -13,8 +13,8 @@ A project for learning and implementing Farmer Motion with Next.js.
 
 ## Introduction
 
-This project is designed to help you learn and implement Farmer Motion using
-Next.js. Farmer Motion is a library for creating smooth animations and
+This project is designed to help you learn and implement Framer  Motion using
+Next.js. Framer  Motion is a library for creating smooth animations and
 transitions in your web applications.
 
 ## Getting Started
@@ -24,8 +24,8 @@ Follow these steps to get the project up and running on your local machine:
 1. Clone the repository:
 
       ```bash
-      git clone https://github.com/yourusername/farmer-motion-nextjs.git
-      cd farmer-motion-nextjs
+      git clone https://github.com/yourusername/Framer-motion.git
+      cd Framer -motion-nextjs
       ```
 
 2. Install dependencies:
@@ -45,7 +45,7 @@ Follow these steps to get the project up and running on your local machine:
 
 ## Usage
 
-In this section, provide some examples of how to use Farmer Motion in your
+In this section, provide some examples of how to use Framer  Motion in your
 Next.js project. Include code snippets, explanations, and any specific
 configurations that are necessary.
 
@@ -59,7 +59,7 @@ const MyComponent = () => (
 		animate={{ opacity: 1 }}
 		exit={{ opacity: 0 }}
 	>
-		This is a Farmer Motion component.
+		This is a Framer  Motion component.
 	</motion.div>
 );
 ```
