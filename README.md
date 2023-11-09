@@ -13,7 +13,7 @@ A project for learning and implementing Framer  Motion with Next.js.
 
 ## Introduction
 
-This project is designed to help you learn and implement Framer  Motion using
+This project is designed to  learn and implement Framer  Motion using
 Next.js. Framer  Motion is a library for creating smooth animations and
 transitions in your web applications.
 
