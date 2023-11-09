@@ -22,6 +22,10 @@ const MainNavbar = () => {
 			title: "Scroll",
 			href: "/scroll",
 		},
+		{
+			title: "Transition",
+			href: "/transition",
+		},
 	];
 
 	const pathName = usePathname();
