@@ -7,10 +7,7 @@ A project for learning and implementing Framer  Motion with Next.js.
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
+   
 ## Introduction
 
 This project is designed to  learn and implement Framer  Motion using
